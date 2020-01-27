@@ -4,7 +4,7 @@ mulili.nzuki@gmail.com
 
 #### Project
 
-[Dynasty](https://github.com/mul1sh/dynasty)
+[Video Dac](https://github.com/videoDAC/apps)
 
 A project that allows parents to leave for their kids, web3 style 😃
 
