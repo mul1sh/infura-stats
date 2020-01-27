@@ -6,7 +6,7 @@ mulili.nzuki@gmail.com
 
 [Video Dac](https://github.com/videoDAC/apps)
 
-A project that allows parents to leave for their kids, web3 style 😃
+A project that enables pay per view for streaming content via the livepeer network 😃
 
 #### Stats Screenshots
 
